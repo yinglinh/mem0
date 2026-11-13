@@ -1,4 +1,4 @@
 [submodule "evaluation"]
 	path = evaluation
-	url = https://github.com/mem0ai/memory-benchmarks
+	url = https://github.com/yinglinh/memory-benchmarks.git
 	branch = main
